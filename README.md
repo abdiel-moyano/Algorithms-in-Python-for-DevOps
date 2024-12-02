@@ -24,7 +24,7 @@ The focus of this repository is on **understanding** and **practicing** algorith
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/Algorithms-in-Python-for-DevOps.git
+   git clone https://github.com/abdiel-moyano/Algorithms-in-Python-for-DevOps.git
    ```
 2. Navigate to the desired algorithm folder:
    ```bash
